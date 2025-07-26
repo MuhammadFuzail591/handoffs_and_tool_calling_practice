@@ -1,4 +1,3 @@
-
 # 🧠 Handoffs and Tool Calling with Custom Agents
 
 This project demonstrates how to implement **multiple AI agents** and **tool calling** with structured Python modules using `venv` and `pyproject.toml`. It’s designed to make it easier to test modular agents like weather checkers, content summarizers, and copywriting tools—all powered by OpenAI.
@@ -118,7 +117,3 @@ Pull requests and improvements are welcome! Please ensure you follow the structu
 ## 📄 License
 
 MIT License. Free to use and modify for educational and commercial use.
-
----
-
-Let me know if you'd like me to generate an image for this project structure (folder tree), or want to convert this README into a nicely designed webpage too!
